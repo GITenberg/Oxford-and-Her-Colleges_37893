@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2090
     wikipedia: http://en.wikipedia.org/wiki/Goldwin_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37893#Oxford-and-Her-Colleges
 gutenberg_issued: '2011-10-31'
 gutenberg_type: Text
 identifiers:
